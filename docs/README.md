@@ -10,7 +10,7 @@ actions:
   - text: 返回官网
     link: https://www.fapixel.com/
     type: secondary
-footer: Copyright © 2022 FillAmeaPixel. <a href="/privacy/" one-link-mark="yes">隐私政策</a>丨<a href="/eula/" one-link-mark="yes">用户协议</a>
+footer: Copyright © 2022 FillAmeaPixel. <a href="/privacy.html/" one-link-mark="yes">隐私政策</a>丨<a href="/eula.html/" one-link-mark="yes">用户协议</a>
 footerHtml: true
 ---
 
