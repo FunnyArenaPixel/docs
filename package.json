@@ -1,0 +1,16 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/FillAmeaPixelNetWork/docs.git",
+  "author": "PexEric <3088364720@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@vuepress/plugin-search": "^2.0.0-beta.37",
+    "vuepress": "^2.0.0-beta.37"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}

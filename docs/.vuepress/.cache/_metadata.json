@@ -1,0 +1,36 @@
+{
+  "hash": "87e437f3",
+  "browserHash": "e1221e25",
+  "optimized": {
+    "vue": {
+      "file": "F:/FillAmeaPixel/docs/docs/docs/.vuepress/.cache/vue.js",
+      "src": "F:/FillAmeaPixel/docs/docs/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "file": "F:/FillAmeaPixel/docs/docs/docs/.vuepress/.cache/vue-router.js",
+      "src": "F:/FillAmeaPixel/docs/docs/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "needsInterop": false
+    },
+    "@vue/devtools-api": {
+      "file": "F:/FillAmeaPixel/docs/docs/docs/.vuepress/.cache/@vue_devtools-api.js",
+      "src": "F:/FillAmeaPixel/docs/docs/node_modules/@vue/devtools-api/lib/esm/index.js",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "file": "F:/FillAmeaPixel/docs/docs/docs/.vuepress/.cache/@vueuse_core.js",
+      "src": "F:/FillAmeaPixel/docs/docs/node_modules/@vueuse/core/index.mjs",
+      "needsInterop": false
+    },
+    "nprogress": {
+      "file": "F:/FillAmeaPixel/docs/docs/docs/.vuepress/.cache/nprogress.js",
+      "src": "F:/FillAmeaPixel/docs/docs/node_modules/nprogress/nprogress.js",
+      "needsInterop": true
+    },
+    "@vuepress/shared": {
+      "file": "F:/FillAmeaPixel/docs/docs/docs/.vuepress/.cache/@vuepress_shared.js",
+      "src": "F:/FillAmeaPixel/docs/docs/node_modules/@vuepress/shared/lib/esm/index.js",
+      "needsInterop": false
+    }
+  }
+}
