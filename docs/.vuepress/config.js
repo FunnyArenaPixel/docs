@@ -69,7 +69,7 @@ module.exports = {
         },
         {
           text: '价值观',
-          children: [{text: '环境责任',link: '/environment/'},{text: '博爱与共享',link: '/'},{text: '隐私权',link: '/privacy/'}],
+          children: [{text: '环境责任',link: '/environment/'},{text: '博爱与共享',link: '/love_sharing/'},{text: '隐私权',link: '/privacy/'}],
         },
         {
           text: '关于',
