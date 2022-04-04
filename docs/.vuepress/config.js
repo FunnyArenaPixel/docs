@@ -52,19 +52,37 @@ module.exports = {
       navbar: [
         {
           text: '游戏玩法',
-          children: [{text: '规则及介绍',link: '/games/',},{text: '玩家公约',link: '/rules/',},{text: '活动列表',link: '/activity/'},{text: '更新日志',link: '/changelog/',}],
+          children: [
+            {
+              text: '游玩规范',
+              children: [{text: '玩家公约',link: '/environment/'},{text: '博爱与共享',link: '/'},{text: '隐私权',link: '/privacy/'}],
+            },
+            {
+              text: '规则及介绍',
+              children: [{text: 'PVP游戏',link: '/environment/'},{text: 'PVE游戏',link: '/'},{text: '小游戏',link: '/privacy/'},{text: 'SkyLand',link: '/privacy/'}],
+            },
+            {
+              text: '规则及介绍',
+              children: [{text: '玩家公约',link: '/rules/',},{text: '活动列表',link: '/activity/'},{text: '更新日志',link: '/changelog/',}],
+            }
+          ]
         },
         {
           text: '价值观',
           children: [{text: '环境责任',link: '/environment/'},{text: '博爱与共享',link: '/'},{text: '隐私权',link: '/privacy/'}],
         },
         {
-          text: '条款',
-          children: [{text: 'Foo',link: '/foo/',}, '/group/bar.md'],
-        },
-        {
           text: '关于',
-          children: [{text: '团队总纲',link: '/environment/'},{text: '管理层',link: '/privacy/'},{text: '工作机会',link: '/jobs/'}],
+          children: [
+            {
+              text: '团队规范',
+              children: [{text: '总纲',link: '/teams/'},{text: '版权条例',link: '/privacy/'},{text: '工作机会',link: '/jobs/'}],
+            },
+            {
+              text: '团队规范',
+              children: [{text: '团队总纲',link: '/teams/'},{text: '管理层',link: '/privacy/'},{text: '工作机会',link: '/jobs/'}],
+            }
+          ],
         },
         {
           text: '返回主站',

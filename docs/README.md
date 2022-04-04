@@ -5,7 +5,7 @@ heroImage: img/logo.png
 tagline: 
 actions:
   - text: 搜索文档
-    link: /zh/guide/getting-started.html
+    link: /
     type: primary
   - text: 返回官网
     link: https://www.fapixel.com/
