@@ -55,11 +55,11 @@ module.exports = {
           children: [
             {
               text: '游玩规范',
-              children: [{text: '玩家公约',link: '/environment/'},{text: '博爱与共享',link: '/'},{text: '隐私权',link: '/privacy/'}],
+              children: [{text: '玩家公约',link: '/players-rule/'},{text: '用户协议',link: '/eula/'},{text: '隐私政策',link: '/privacy/'}],
             },
             {
               text: '玩法介绍',
-              children: [{text: 'PVP游戏',link: '/environment/'},{text: 'PVE游戏',link: '/'},{text: '小游戏',link: '/privacy/'},{text: 'SkyLand',link: '/SkyLand/'}],
+              children: [{text: 'PVP游戏',link: '/games/PVP/'},{text: 'PVE游戏',link: '/games/PVE/'},{text: '小游戏',link: '/games/mini/'},{text: 'SkyLand',link: '/games/SkyLand/'}],
             },
             {
               text: '动态',
@@ -76,11 +76,11 @@ module.exports = {
           children: [
             {
               text: '团队规范',
-              children: [{text: '总纲',link: '/teams/'},{text: '版权条例',link: '/'},{text: '工作机会',link: '/jobs/'}],
+              children: [{text: '总纲',link: '/team/main/'},{text: '版权条例',link: '/copyright/'},{text: '运营规范',link: '/team/operation'}],
             },
             {
               text: '招贤纳士',
-              children: [{text: '招新计划',link: '/teams/'},{text: '招新资料',link: '/privacy/'},{text: '管理层',link: '/leader/'}],
+              children: [{text: '招新计划',link: '/team/recruit/plan/'},{text: '招新资料',link: '/team/recruit/info/'},{text: '管理层',link: '/team/leadership/'}],
             }
           ],
         },
