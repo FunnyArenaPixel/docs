@@ -1,33 +1,33 @@
 export const data = {
-  "key": "v-08eb506c",
-  "path": "/privacy.html",
-  "title": "FillAmeaPixel 隐私政策",
+  "key": "v-ce159204",
+  "path": "/changelog.html",
+  "title": "更新日志",
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
   "headers": [
     {
       "level": 2,
-      "title": "一、个人信息的收集和使用",
-      "slug": "一、个人信息的收集和使用",
+      "title": "2022年",
+      "slug": "_2022年",
       "children": [
         {
           "level": 3,
-          "title": "1.1 我们收集哪些信息及如何收集",
-          "slug": "_1-1-我们收集哪些信息及如何收集",
+          "title": "2022年4月",
+          "slug": "_2022年4月",
           "children": []
         },
         {
           "level": 3,
-          "title": "1.2 我们将如何使用这些信息",
-          "slug": "_1-2-我们将如何使用这些信息",
+          "title": "2022年3月",
+          "slug": "_2022年3月",
           "children": []
         }
       ]
     }
   ],
   "git": {
-    "updatedTime": 1649071134000,
+    "updatedTime": 1649073670000,
     "contributors": [
       {
         "name": "PexEric",
@@ -36,7 +36,7 @@ export const data = {
       }
     ]
   },
-  "filePathRelative": "privacy.md"
+  "filePathRelative": "changelog.md"
 }
 
 if (import.meta.webpackHot) {

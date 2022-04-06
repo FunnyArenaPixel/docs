@@ -12,23 +12,58 @@ export const themeData = {
   },
   "navbar": [
     {
-      "text": "游戏玩法",
+      "text": "游玩",
       "children": [
         {
-          "text": "规则及介绍",
-          "link": "/games/"
+          "text": "游玩规范",
+          "children": [
+            {
+              "text": "玩家公约",
+              "link": "/players-rule/"
+            },
+            {
+              "text": "用户协议",
+              "link": "/eula/"
+            },
+            {
+              "text": "隐私政策",
+              "link": "/privacy/"
+            }
+          ]
         },
         {
-          "text": "玩家公约",
-          "link": "/rules/"
+          "text": "玩法介绍",
+          "children": [
+            {
+              "text": "PVP游戏",
+              "link": "/games/PVP/"
+            },
+            {
+              "text": "PVE游戏",
+              "link": "/games/PVE/"
+            },
+            {
+              "text": "小游戏",
+              "link": "/games/mini/"
+            },
+            {
+              "text": "SkyLand",
+              "link": "/games/SkyLand/"
+            }
+          ]
         },
         {
-          "text": "活动列表",
-          "link": "/activity/"
-        },
-        {
-          "text": "更新日志",
-          "link": "/changelog/"
+          "text": "动态",
+          "children": [
+            {
+              "text": "活动列表",
+              "link": "/activity/"
+            },
+            {
+              "text": "更新日志",
+              "link": "/changelog/"
+            }
+          ]
         }
       ]
     },
@@ -41,7 +76,7 @@ export const themeData = {
         },
         {
           "text": "博爱与共享",
-          "link": "/"
+          "link": "/love_sharing/"
         },
         {
           "text": "隐私权",
@@ -50,29 +85,41 @@ export const themeData = {
       ]
     },
     {
-      "text": "条款",
-      "children": [
-        {
-          "text": "Foo",
-          "link": "/foo/"
-        },
-        "/group/bar.md"
-      ]
-    },
-    {
       "text": "关于",
       "children": [
         {
-          "text": "团队总纲",
-          "link": "/environment/"
+          "text": "团队规范",
+          "children": [
+            {
+              "text": "总纲",
+              "link": "/team/main/"
+            },
+            {
+              "text": "版权条例",
+              "link": "/copyright/"
+            },
+            {
+              "text": "运营规范",
+              "link": "/team/operation"
+            }
+          ]
         },
         {
-          "text": "管理层",
-          "link": "/privacy/"
-        },
-        {
-          "text": "工作机会",
-          "link": "/jobs/"
+          "text": "招贤纳士",
+          "children": [
+            {
+              "text": "招新计划",
+              "link": "/team/recruit/plan/"
+            },
+            {
+              "text": "招新资料",
+              "link": "/team/recruit/info/"
+            },
+            {
+              "text": "管理层",
+              "link": "/team/leadership/"
+            }
+          ]
         }
       ]
     },

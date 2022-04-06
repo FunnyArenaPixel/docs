@@ -1,5 +1,32 @@
 export const searchIndex = [
   {
+    "title": "更新日志",
+    "headers": [
+      {
+        "level": 2,
+        "title": "2022年",
+        "slug": "_2022年",
+        "children": [
+          {
+            "level": 3,
+            "title": "2022年4月",
+            "slug": "_2022年4月",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2022年3月",
+            "slug": "_2022年3月",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/changelog.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "FillAmeaPixel 用户协议",
     "headers": [
       {
@@ -57,6 +84,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "FillAmeaPixel 博爱与共享宣言",
+    "headers": [],
+    "path": "/love_sharing.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "FillAmeaPixel 隐私政策",
     "headers": [
       {
@@ -84,7 +118,7 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "首页",
+    "title": "",
     "headers": [],
     "path": "/en/",
     "pathLocale": "/en/",

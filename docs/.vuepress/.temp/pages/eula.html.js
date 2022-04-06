@@ -57,8 +57,14 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1649071134000,
+    "contributors": [
+      {
+        "name": "PexEric",
+        "email": "3088364720@qq.com",
+        "commits": 1
+      }
+    ]
   },
   "filePathRelative": "eula.md"
 }

@@ -11,7 +11,7 @@ export const data = {
     "actions": [
       {
         "text": "搜索文档",
-        "link": "/zh/guide/getting-started.html",
+        "link": "/",
         "type": "primary"
       },
       {
@@ -20,14 +20,20 @@ export const data = {
         "type": "secondary"
       }
     ],
-    "footer": "Copyright © 2022 FillAmeaPixel. <a href=\"/privacy/\" one-link-mark=\"yes\">隐私政策</a>丨<a href=\"/eula/\" one-link-mark=\"yes\">用户协议</a>",
+    "footer": "Copyright © 2022 FillAmeaPixel. <a href=\"/privacy.html/\" one-link-mark=\"yes\">隐私政策</a>丨<a href=\"/eula.html/\" one-link-mark=\"yes\">用户协议</a>",
     "footerHtml": true
   },
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1649074270000,
+    "contributors": [
+      {
+        "name": "PexEric",
+        "email": "3088364720@qq.com",
+        "commits": 3
+      }
+    ]
   },
   "filePathRelative": "README.md"
 }

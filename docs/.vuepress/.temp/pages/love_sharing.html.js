@@ -1,29 +1,22 @@
 export const data = {
-  "key": "v-f5f35416",
-  "path": "/environment/",
-  "title": "环境责任",
+  "key": "v-0ab08351",
+  "path": "/love_sharing.html",
+  "title": "FillAmeaPixel 博爱与共享宣言",
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
-  "headers": [
-    {
-      "level": 2,
-      "title": "我们的进展",
-      "slug": "我们的进展",
-      "children": []
-    }
-  ],
+  "headers": [],
   "git": {
-    "updatedTime": 1649071134000,
+    "updatedTime": 1649074755000,
     "contributors": [
       {
         "name": "PexEric",
         "email": "3088364720@qq.com",
-        "commits": 1
+        "commits": 2
       }
     ]
   },
-  "filePathRelative": "environment/README.md"
+  "filePathRelative": "love_sharing.md"
 }
 
 if (import.meta.webpackHot) {
