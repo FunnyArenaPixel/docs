@@ -10,8 +10,8 @@ export const data = {
     "tagline": null,
     "actions": [
       {
-        "text": "搜索文档",
-        "link": "/",
+        "text": "GitHub",
+        "link": "https://github.com/FillAmeaPixelNetWork/docs/",
         "type": "primary"
       },
       {

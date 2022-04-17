@@ -4,8 +4,8 @@ heroText: FillAmeaPixel 文档中心
 heroImage: img/logo.png
 tagline: 
 actions:
-  - text: 搜索文档
-    link: /
+  - text: GitHub
+    link: https://github.com/FillAmeaPixelNetWork/docs/
     type: primary
   - text: 返回官网
     link: https://www.fapixel.com/

@@ -84,9 +84,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "FillAmeaPixel 博爱与共享宣言",
+    "title": "FillAmeaPixel 玩家公约",
     "headers": [],
-    "path": "/love_sharing.html",
+    "path": "/players_covenant.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -120,8 +120,8 @@ export const searchIndex = [
   {
     "title": "",
     "headers": [],
-    "path": "/en/",
-    "pathLocale": "/en/",
+    "path": "/copyright/",
+    "pathLocale": "/",
     "extraFields": []
   },
   {
@@ -135,6 +135,20 @@ export const searchIndex = [
       }
     ],
     "path": "/environment/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/en/",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/copyright/assets/lobby.html",
     "pathLocale": "/",
     "extraFields": []
   },

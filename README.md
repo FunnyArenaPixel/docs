@@ -5,5 +5,5 @@
 ## 如何贡献
 
 1. [fork](https://github.com/FillAmeaPixelNetWork/docs/fork)本仓库
-2. 在docs文件夹增加/删改 `.md` 格式文档
+2. 在docs文件夹增加/删改 `.md` 格式文档（英文文档存放在docs/en）
 3. 发起pull request
