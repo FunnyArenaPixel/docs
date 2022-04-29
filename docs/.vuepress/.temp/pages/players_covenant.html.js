@@ -7,8 +7,14 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1650168001000,
+    "contributors": [
+      {
+        "name": "PexEric",
+        "email": "3088364720@qq.com",
+        "commits": 1
+      }
+    ]
   },
   "filePathRelative": "players_covenant.md"
 }

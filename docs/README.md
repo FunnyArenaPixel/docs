@@ -4,7 +4,7 @@ heroText: FillAmeaPixel 文档中心
 heroImage: img/logo.png
 tagline: 
 actions:
-  - text: GitHub
+  - text: 项目仓库
     link: https://github.com/FillAmeaPixelNetWork/docs/
     type: primary
   - text: 返回官网

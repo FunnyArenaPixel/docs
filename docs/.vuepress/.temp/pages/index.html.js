@@ -10,7 +10,7 @@ export const data = {
     "tagline": null,
     "actions": [
       {
-        "text": "GitHub",
+        "text": "项目仓库",
         "link": "https://github.com/FillAmeaPixelNetWork/docs/",
         "type": "primary"
       },
@@ -26,12 +26,12 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1649074270000,
+    "updatedTime": 1650168001000,
     "contributors": [
       {
         "name": "PexEric",
         "email": "3088364720@qq.com",
-        "commits": 3
+        "commits": 4
       }
     ]
   },
