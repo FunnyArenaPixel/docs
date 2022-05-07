@@ -120,13 +120,6 @@ export const searchIndex = [
   {
     "title": "",
     "headers": [],
-    "path": "/en/",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
-    "title": "",
-    "headers": [],
     "path": "/copyright/",
     "pathLocale": "/",
     "extraFields": []
@@ -143,6 +136,13 @@ export const searchIndex = [
     ],
     "path": "/environment/",
     "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/en/",
+    "pathLocale": "/en/",
     "extraFields": []
   },
   {
