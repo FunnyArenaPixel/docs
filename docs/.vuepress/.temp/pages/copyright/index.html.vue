@@ -1,1 +1,11 @@
-<template></template>
+<template><h1 id="版权" tabindex="-1"><a class="header-anchor" href="#版权" aria-hidden="true">#</a> 版权</h1>
+<blockquote>
+<p>唯有重视版权，创作者的合法权益才能得到有效保障。更多优秀的作品才能得以出现。</p>
+<p>无论何时都不能忘记版权，要把提高版权意识作为团队的价值追求。</p>
+<p>—— <RouterLink to="/team/leadership/"><strong>PexEric</strong></RouterLink></p>
+</blockquote>
+<p>FillAmeaPixel 尊重每一位创作者。</p>
+<p>我们在开发、运营服务器过程中所使用的不同形式和媒介的资源，其绝大部分都已经取得了原创作者直接或间接的许可。对于部分因各种原因无法联系到原作者的资源，我们在这里对其创作者一并表示感谢。</p>
+<p>我们将团队的<a href="">版权条例</a>和部分资源的<RouterLink to="/copyright/assets/">授权情况</RouterLink>公示在这里，以求各位玩家对我们进行监督。</p>
+<p>如果您是玩家，发现我们团队的成员有版权违规情况，欢迎您向管理层的有关负责人<a href="mailto:admin@fapixel.com">举报</a>；如果您作为创作者的著作权被我们侵犯，您也可以<a href="mailto:admin@fapixel.com">联系我们</a>协商版权事宜。</p>
+</template>

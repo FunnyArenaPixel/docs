@@ -1,35 +1,29 @@
 export const data = {
-  "key": "v-f5f35416",
-  "path": "/environment/",
-  "title": "环境责任",
+  "key": "v-7b0be658",
+  "path": "/eula-changelog.html",
+  "title": "《FillAmeaPixel 用户协议》更新日志",
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
   "headers": [
     {
       "level": 2,
-      "title": "我们的进展",
-      "slug": "我们的进展",
+      "title": "2022 年 7 月 10 日",
+      "slug": "_2022-年-7-月-10-日",
       "children": []
     },
     {
       "level": 2,
-      "title": "我们的承诺",
-      "slug": "我们的承诺",
+      "title": "2022 年 4 月 4日",
+      "slug": "_2022-年-4-月-4日",
       "children": []
     }
   ],
   "git": {
-    "updatedTime": 1654700385000,
-    "contributors": [
-      {
-        "name": "PexEric",
-        "email": "3088364720@qq.com",
-        "commits": 3
-      }
-    ]
+    "updatedTime": null,
+    "contributors": []
   },
-  "filePathRelative": "environment/README.md"
+  "filePathRelative": "eula-changelog.md"
 }
 
 if (import.meta.webpackHot) {

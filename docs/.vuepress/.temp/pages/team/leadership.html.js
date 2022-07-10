@@ -1,22 +1,16 @@
 export const data = {
-  "key": "v-640155fe",
-  "path": "/copyright/",
-  "title": "版权",
+  "key": "v-4105bc0a",
+  "path": "/team/leadership.html",
+  "title": "管理层",
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1649257829000,
-    "contributors": [
-      {
-        "name": "PexEric",
-        "email": "3088364720@qq.com",
-        "commits": 1
-      }
-    ]
+    "updatedTime": null,
+    "contributors": []
   },
-  "filePathRelative": "copyright/README.md"
+  "filePathRelative": "team/leadership.md"
 }
 
 if (import.meta.webpackHot) {

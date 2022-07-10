@@ -1,35 +1,35 @@
 export const data = {
-  "key": "v-f5f35416",
-  "path": "/environment/",
-  "title": "环境责任",
+  "key": "v-46e634eb",
+  "path": "/copyright/assets/",
+  "title": "资源授权公示",
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
   "headers": [
     {
       "level": 2,
-      "title": "我们的进展",
-      "slug": "我们的进展",
+      "title": "游戏主大厅地图",
+      "slug": "游戏主大厅地图",
       "children": []
     },
     {
       "level": 2,
-      "title": "我们的承诺",
-      "slug": "我们的承诺",
+      "title": "游戏NPC皮肤贴图",
+      "slug": "游戏npc皮肤贴图",
+      "children": []
+    },
+    {
+      "level": 2,
+      "title": "僵尸末日地图",
+      "slug": "僵尸末日地图",
       "children": []
     }
   ],
   "git": {
-    "updatedTime": 1654700385000,
-    "contributors": [
-      {
-        "name": "PexEric",
-        "email": "3088364720@qq.com",
-        "commits": 3
-      }
-    ]
+    "updatedTime": null,
+    "contributors": []
   },
-  "filePathRelative": "environment/README.md"
+  "filePathRelative": "copyright/assets/README.md"
 }
 
 if (import.meta.webpackHot) {

@@ -27,6 +27,26 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "《FillAmeaPixel 用户协议》更新日志",
+    "headers": [
+      {
+        "level": 2,
+        "title": "2022 年 7 月 10 日",
+        "slug": "_2022-年-7-月-10-日",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "2022 年 4 月 4日",
+        "slug": "_2022-年-4-月-4日",
+        "children": []
+      }
+    ],
+    "path": "/eula-changelog.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "FillAmeaPixel 用户协议",
     "headers": [
       {
@@ -120,6 +140,13 @@ export const searchIndex = [
   {
     "title": "",
     "headers": [],
+    "path": "/en/",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
     "path": "/copyright/",
     "pathLocale": "/",
     "extraFields": []
@@ -132,6 +159,12 @@ export const searchIndex = [
         "title": "我们的进展",
         "slug": "我们的进展",
         "children": []
+      },
+      {
+        "level": 2,
+        "title": "我们的承诺",
+        "slug": "我们的承诺",
+        "children": []
       }
     ],
     "path": "/environment/",
@@ -139,16 +172,42 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "",
+    "title": "管理层",
     "headers": [],
-    "path": "/en/",
-    "pathLocale": "/en/",
+    "path": "/team/leadership.html",
+    "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "",
+    "title": "FillAmeaPixel 团队总纲",
     "headers": [],
-    "path": "/copyright/assets/lobby.html",
+    "path": "/team/main.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "资源授权公示",
+    "headers": [
+      {
+        "level": 2,
+        "title": "游戏主大厅地图",
+        "slug": "游戏主大厅地图",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "游戏NPC皮肤贴图",
+        "slug": "游戏npc皮肤贴图",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "僵尸末日地图",
+        "slug": "僵尸末日地图",
+        "children": []
+      }
+    ],
+    "path": "/copyright/assets/",
     "pathLocale": "/",
     "extraFields": []
   },

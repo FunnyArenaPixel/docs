@@ -10,7 +10,7 @@ export const data = {
     "tagline": null,
     "actions": [
       {
-        "text": "GitHub",
+        "text": "开源仓库",
         "link": "https://github.com/FillAmeaPixelNetWork/docs/",
         "type": "primary"
       },
@@ -20,18 +20,18 @@ export const data = {
         "type": "secondary"
       }
     ],
-    "footer": "Copyright © 2022 FillAmeaPixel. <a href=\"/privacy.html/\" one-link-mark=\"yes\">隐私政策</a>丨<a href=\"/eula.html/\" one-link-mark=\"yes\">用户协议</a>",
+    "footer": "Copyright © 2022 FillAmeaPixel.<br /><a href=\"/privacy.html/\" one-link-mark=\"yes\">隐私政策</a>丨<a href=\"/eula.html/\" one-link-mark=\"yes\">用户协议</a>",
     "footerHtml": true
   },
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1649074270000,
+    "updatedTime": 1651924599000,
     "contributors": [
       {
         "name": "PexEric",
         "email": "3088364720@qq.com",
-        "commits": 3
+        "commits": 6
       }
     ]
   },
