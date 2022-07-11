@@ -138,17 +138,17 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "",
+    "title": "版权",
     "headers": [],
-    "path": "/en/",
-    "pathLocale": "/en/",
+    "path": "/copyright/",
+    "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "",
     "headers": [],
-    "path": "/copyright/",
-    "pathLocale": "/",
+    "path": "/en/",
+    "pathLocale": "/en/",
     "extraFields": []
   },
   {

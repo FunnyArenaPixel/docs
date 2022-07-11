@@ -7,8 +7,14 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1657466749000,
+    "contributors": [
+      {
+        "name": "PexEric",
+        "email": "3088364720@qq.com",
+        "commits": 1
+      }
+    ]
   },
   "filePathRelative": "team/leadership.md"
 }

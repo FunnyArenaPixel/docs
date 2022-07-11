@@ -11,10 +11,10 @@ export const pagesData = {
   "v-08eb506c": () => import(/* webpackChunkName: "v-08eb506c" */"F:/FillAmeaPixel/docs/docs/docs/.vuepress/.temp/pages/privacy.html.js").then(({ data }) => data),
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"F:/FillAmeaPixel/docs/docs/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
-  // path: /en/
-  "v-2d0a870d": () => import(/* webpackChunkName: "v-2d0a870d" */"F:/FillAmeaPixel/docs/docs/docs/.vuepress/.temp/pages/en/index.html.js").then(({ data }) => data),
   // path: /copyright/
   "v-640155fe": () => import(/* webpackChunkName: "v-640155fe" */"F:/FillAmeaPixel/docs/docs/docs/.vuepress/.temp/pages/copyright/index.html.js").then(({ data }) => data),
+  // path: /en/
+  "v-2d0a870d": () => import(/* webpackChunkName: "v-2d0a870d" */"F:/FillAmeaPixel/docs/docs/docs/.vuepress/.temp/pages/en/index.html.js").then(({ data }) => data),
   // path: /environment/
   "v-f5f35416": () => import(/* webpackChunkName: "v-f5f35416" */"F:/FillAmeaPixel/docs/docs/docs/.vuepress/.temp/pages/environment/index.html.js").then(({ data }) => data),
   // path: /team/leadership.html

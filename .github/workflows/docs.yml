@@ -1,15 +1,5 @@
 name: docs
 
-<<<<<<< HEAD
-    - name: vuepress-deploy
-      uses: jenkey2011/vuepress-deploy@master
-      env:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        TARGET_BRANCH: gh-pages
-        BUILD_SCRIPT: yarn && yarn docs:build
-        BUILD_DIR: docs/.vuepress/dist
-        CNAME: https://docs.fapixel.com
-=======
 on:
   # 每当 push 到 main 分支时触发部署
   push:
@@ -65,4 +55,3 @@ jobs:
         env:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
->>>>>>> parent of 7d9e9e2 (更新部署)
