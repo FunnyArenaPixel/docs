@@ -1,4 +1,4 @@
-# FillAmeaPixel 玩家公约
+# FunnyArenaPixel 玩家公约
 
 **更新日期：2022 年 4 月 17 日**
 
@@ -6,5 +6,5 @@
 
 ::: warning 
 本页面的编写还在进行中，可能与最终版本有所出入。
-FillAmeaPixel 对未生效文档的历史版本概不负责。
+FunnyArenaPixel 对未生效文档的历史版本概不负责。
 :::

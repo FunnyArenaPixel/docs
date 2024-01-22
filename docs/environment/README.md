@@ -1,6 +1,6 @@
 # 环境责任
 
-FillAmeaPixel 致力于环境保护，这是我们的核心价值观之一。
+FunnyArenaPixel 致力于环境保护，这是我们的核心价值观之一。
 
 ## 我们的进展
 
@@ -14,5 +14,5 @@ FillAmeaPixel 致力于环境保护，这是我们的核心价值观之一。
 
 ::: warning 
 本页面的编写还在进行中，可能与最终版本有所出入。
-FillAmeaPixel 对未生效文档的历史版本概不负责。
+FunnyArenaPixel 对未生效文档的历史版本概不负责。
 :::

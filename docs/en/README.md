@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: FillAmeaPixel Docs
+heroText: FunnyArenaPixel Docs
 heroImage: img/logo.png
 tagline: 
 actions:
@@ -10,11 +10,11 @@ actions:
   - text: Offical Website
     link: https://www.fapixel.com/
     type: secondary
-footer: Copyright © 2022 FillAmeaPixel. <a href="/en/privacy.html/" one-link-mark="yes">Privacy Policy</a>丨<a href="en/eula.html/" one-link-mark="yes">Terms of Use</a>
+footer: Copyright © 2022 FunnyArenaPixel. <a href="/en/privacy.html/" one-link-mark="yes">Privacy Policy</a>丨<a href="en/eula.html/" one-link-mark="yes">Terms of Use</a>
 footerHtml: true
 ---
 
-Welcome to  **FillAmeaPixel Document Center**<Badge text="Beta" />!
+Welcome to  **FunnyArenaPixel Document Center**<Badge text="Beta" />!
 
 You can access our documentation here. They detail the update history of our server, our activity program, our administrative regulations, as well as our team's values, recruitment plan and privacy policy.
 
