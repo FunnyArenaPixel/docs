@@ -5,13 +5,13 @@ export const data = {
   "lang": "zh-CN",
   "frontmatter": {
     "home": true,
-    "heroText": "FillAmeaPixel 文档中心",
+    "heroText": "FunnyArenaPixel 文档中心",
     "heroImage": "img/logo.png",
     "tagline": null,
     "actions": [
       {
         "text": "开源仓库",
-        "link": "https://github.com/FillAmeaPixelNetWork/docs/",
+        "link": "https://github.com/FunnyArenaPixel/docs/",
         "type": "primary"
       },
       {
@@ -20,18 +20,23 @@ export const data = {
         "type": "secondary"
       }
     ],
-    "footer": "Copyright © 2022 FillAmeaPixel.<br /><a href=\"/privacy.html/\" one-link-mark=\"yes\">隐私政策</a>丨<a href=\"/eula.html/\" one-link-mark=\"yes\">用户协议</a>",
+    "footer": "Copyright © 2024 FunnyArenaPixel. 保留本页面的所有权利。<br /><a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" one-link-mark=\"yes\">京ICP备2024044839号-1</a> - <a href=\"/privacy.html/\" one-link-mark=\"yes\">隐私政策</a> | <a href=\"/eula.html/\" one-link-mark=\"yes\">用户协议</a>",
     "footerHtml": true
   },
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1657466749000,
+    "updatedTime": 1705936573000,
     "contributors": [
       {
         "name": "PexEric",
         "email": "3088364720@qq.com",
         "commits": 7
+      },
+      {
+        "name": "PexEric",
+        "email": "suoerix@gmail.com",
+        "commits": 1
       }
     ]
   },

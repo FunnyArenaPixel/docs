@@ -1,17 +1,22 @@
 export const data = {
   "key": "v-788856df",
   "path": "/players_covenant.html",
-  "title": "FillAmeaPixel 玩家公约",
+  "title": "FunnyArenaPixel 玩家公约",
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1650168001000,
+    "updatedTime": 1705936573000,
     "contributors": [
       {
         "name": "PexEric",
         "email": "3088364720@qq.com",
+        "commits": 1
+      },
+      {
+        "name": "PexEric",
+        "email": "suoerix@gmail.com",
         "commits": 1
       }
     ]

@@ -3,7 +3,7 @@ module.exports = {
     locales: {
       '/': {
         lang: 'zh-CN',
-        title: 'FillAmeaPixel 文档中心',
+        title: 'FunnyArenaPixel 文档中心',
       },
       '/en/': {
         lang: 'en-US',
@@ -59,7 +59,7 @@ module.exports = {
             },
             {
               text: '玩法介绍',
-              children: [{text: 'PVP游戏',link: '/games/PVP/'},{text: 'PVE游戏',link: '/games/PVE/'},{text: '小游戏',link: '/games/mini/'},{text: 'SkyLand',link: '/games/SkyLand/'}],
+              children: [{text: 'PVP游戏',link: '/games/PVP/'},{text: 'PVE游戏',link: '/games/PVE/'},{text: '小游戏',link: '/games/mini/'}],
             },
             {
               text: '动态',
@@ -69,7 +69,7 @@ module.exports = {
         },
         {
           text: '价值观',
-          children: [{text: '环境责任',link: '/environment/'},{text: '博爱与共享',link: '/love_sharing/'},{text: '隐私权',link: '/privacy/'}],
+          children: [{text: '环境责任',link: '/environment/'},{text: '著作权',link: '/copyright/'},{text: '隐私权',link: '/privacy/'}],
         },
         {
           text: '关于',

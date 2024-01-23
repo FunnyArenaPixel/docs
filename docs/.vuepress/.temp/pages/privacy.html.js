@@ -1,7 +1,7 @@
 export const data = {
   "key": "v-08eb506c",
   "path": "/privacy.html",
-  "title": "FillAmeaPixel 隐私政策",
+  "title": "FunnyArenaPixel 隐私政策",
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
@@ -27,12 +27,17 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1650168001000,
+    "updatedTime": 1705936573000,
     "contributors": [
       {
         "name": "PexEric",
         "email": "3088364720@qq.com",
         "commits": 2
+      },
+      {
+        "name": "PexEric",
+        "email": "suoerix@gmail.com",
+        "commits": 1
       }
     ]
   },

@@ -5,7 +5,7 @@ export const data = {
   "lang": "en-US",
   "frontmatter": {
     "home": true,
-    "heroText": "FillAmeaPixel Docs",
+    "heroText": "FunnyArenaPixel Docs",
     "heroImage": "img/logo.png",
     "tagline": null,
     "actions": [
@@ -20,18 +20,23 @@ export const data = {
         "type": "secondary"
       }
     ],
-    "footer": "Copyright © 2022 FillAmeaPixel. <a href=\"/en/privacy.html/\" one-link-mark=\"yes\">Privacy Policy</a>丨<a href=\"en/eula.html/\" one-link-mark=\"yes\">Terms of Use</a>",
+    "footer": "Copyright © 2024 FunnyArenaPixel. <a href=\"/en/privacy.html/\" one-link-mark=\"yes\">Privacy Policy</a> | <a href=\"en/eula.html/\" one-link-mark=\"yes\">Terms of Use</a>",
     "footerHtml": true
   },
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1649089069000,
+    "updatedTime": 1705936573000,
     "contributors": [
       {
         "name": "PexEric",
         "email": "3088364720@qq.com",
         "commits": 2
+      },
+      {
+        "name": "PexEric",
+        "email": "suoerix@gmail.com",
+        "commits": 1
       }
     ]
   },

@@ -15,7 +15,7 @@ export const siteData = {
   "locales": {
     "/": {
       "lang": "zh-CN",
-      "title": "FillAmeaPixel 文档中心"
+      "title": "FunnyArenaPixel 文档中心"
     },
     "/en/": {
       "lang": "en-US",

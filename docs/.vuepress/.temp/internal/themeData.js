@@ -61,10 +61,6 @@ export const themeData = {
             {
               "text": "小游戏",
               "link": "/games/mini/"
-            },
-            {
-              "text": "SkyLand",
-              "link": "/games/SkyLand/"
             }
           ]
         },
@@ -91,8 +87,8 @@ export const themeData = {
           "link": "/environment/"
         },
         {
-          "text": "博爱与共享",
-          "link": "/love_sharing/"
+          "text": "著作权",
+          "link": "/copyright/"
         },
         {
           "text": "隐私权",

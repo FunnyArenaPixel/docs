@@ -27,8 +27,14 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "《FillAmeaPixel 用户协议》更新日志",
+    "title": "《FunnyArenaPixel 用户协议》更新日志",
     "headers": [
+      {
+        "level": 2,
+        "title": "2024 年 4 月 22 日",
+        "slug": "_2024-年-4-月-22-日",
+        "children": []
+      },
       {
         "level": 2,
         "title": "2022 年 7 月 10 日",
@@ -47,7 +53,7 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "FillAmeaPixel 用户协议",
+    "title": "FunnyArenaPixel 用户协议",
     "headers": [
       {
         "level": 2,
@@ -104,14 +110,14 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "FillAmeaPixel 玩家公约",
+    "title": "FunnyArenaPixel 玩家公约",
     "headers": [],
     "path": "/players_covenant.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "FillAmeaPixel 隐私政策",
+    "title": "FunnyArenaPixel 隐私政策",
     "headers": [
       {
         "level": 2,
@@ -138,7 +144,7 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "版权",
+    "title": "著作权",
     "headers": [],
     "path": "/copyright/",
     "pathLocale": "/",
@@ -179,7 +185,7 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "FillAmeaPixel 团队总纲",
+    "title": "FunnyArenaPixel 团队总纲",
     "headers": [],
     "path": "/team/main.html",
     "pathLocale": "/",

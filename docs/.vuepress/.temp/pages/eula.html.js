@@ -1,9 +1,12 @@
 export const data = {
   "key": "v-1e84120a",
   "path": "/eula.html",
-  "title": "FillAmeaPixel 用户协议",
+  "title": "FunnyArenaPixel 用户协议",
   "lang": "zh-CN",
-  "frontmatter": {},
+  "frontmatter": {
+    "footer": "Copyright © 2024 FunnyArenaPixel. 保留本页面的所有权利。<br /><a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" one-link-mark=\"yes\">京ICP备2024044839号-1</a> - <a href=\"/privacy.html/\" one-link-mark=\"yes\">隐私政策</a> | <a href=\"/eula.html/\" one-link-mark=\"yes\">用户协议</a>",
+    "footerHtml": true
+  },
   "excerpt": "",
   "headers": [
     {
@@ -57,12 +60,17 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1657466749000,
+    "updatedTime": 1705936573000,
     "contributors": [
       {
         "name": "PexEric",
         "email": "3088364720@qq.com",
         "commits": 2
+      },
+      {
+        "name": "PexEric",
+        "email": "suoerix@gmail.com",
+        "commits": 1
       }
     ]
   },

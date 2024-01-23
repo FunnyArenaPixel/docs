@@ -1,6 +1,10 @@
+---
+footer: Copyright © 2024 FunnyArenaPixel. 保留本页面的所有权利。<br /><a href="https://beian.miit.gov.cn/" target="_blank" one-link-mark="yes">京ICP备2024044839号-1</a> - <a href="/privacy.html/" one-link-mark="yes">隐私政策</a> | <a href="/eula.html/" one-link-mark="yes">用户协议</a>
+footerHtml: true
+---
 # FunnyArenaPixel 用户协议
 
-**更新日期：2024 年 1 月 22 日** （[更新日志](/eula-changelog)）
+**更新日期：2024 年 1 月 23 日** （[更新日志](/eula-changelog)）
 
 速德优（北京）网络科技有限公司（如下简称“速德优”或“本公司”）在此特别提醒用户认真阅读、充分理解本《FunnyArenaPixel 用户协议》（下称“本协议”）。
 
@@ -95,4 +99,4 @@
 
 4.4.1 速德优通过电子邮件或短信或网页公告或速德优认为适当的方式通知给用户，告知用户服务条款的修改、服务变更及其他重要事项。速德优通过以上任一方式向用户发报消息后，用户未在3日内通过书面方式提出异议，视为接受新消息的内容。
 
-4.4.2 本协议更新时间为 2022 年 7 月 10 日。
+4.4.2 本协议更新时间为 2024 年 1 月 23 日。

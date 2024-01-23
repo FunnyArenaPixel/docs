@@ -1,11 +1,17 @@
 export const data = {
   "key": "v-7b0be658",
   "path": "/eula-changelog.html",
-  "title": "《FillAmeaPixel 用户协议》更新日志",
+  "title": "《FunnyArenaPixel 用户协议》更新日志",
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
   "headers": [
+    {
+      "level": 2,
+      "title": "2024 年 4 月 23 日",
+      "slug": "_2024-年-4-月-23-日",
+      "children": []
+    },
     {
       "level": 2,
       "title": "2022 年 7 月 10 日",
@@ -20,11 +26,16 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1657466749000,
+    "updatedTime": 1705936573000,
     "contributors": [
       {
         "name": "PexEric",
         "email": "3088364720@qq.com",
+        "commits": 1
+      },
+      {
+        "name": "PexEric",
+        "email": "suoerix@gmail.com",
         "commits": 1
       }
     ]
