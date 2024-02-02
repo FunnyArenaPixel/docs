@@ -1,10 +1,6 @@
----
-footer: Copyright © 2024 FunnyArenaPixel. 保留本页面的所有权利。<br /><a href="https://beian.miit.gov.cn/" target="_blank" one-link-mark="yes">京ICP备2024044839号-1</a> - <a href="/privacy.html/" one-link-mark="yes">隐私政策</a> | <a href="/eula.html/" one-link-mark="yes">用户协议</a>
-footerHtml: true
----
 # FunnyArenaPixel 用户协议
 
-**更新日期：2024 年 1 月 23 日** （[更新日志](/eula-changelog)）
+**更新日期：2024 年 2 月 2 日** （[更新日志](/eula-changelog)）
 
 速德优（北京）网络科技有限公司（如下简称“速德优”或“本公司”）在此特别提醒用户认真阅读、充分理解本《FunnyArenaPixel 用户协议》（下称“本协议”）。
 
@@ -12,7 +8,7 @@ footerHtml: true
 
 ## 1 总则
 
-1.1 FunnyArenaPixel 是由速德优基于开源软件 Nukkit 自主研发并拥有软件著作权的《Minecraft》游戏服务器，隶属于速德优（北京）网络科技有限公司。服务器的所有权及运营权归本公司旗下工作室 Concrete Studio 所有。
+1.1 FunnyArenaPixel 是速德优（北京）网络科技有限公司基于开源软件 Nukkit 自主研发并拥有软件著作权的《Minecraft》游戏服务器。服务器的运营权由本公司旗下工作室 Concrete Studio 所有。
 
 1.2 用户在使用服务器的特定服务时，该等服务可能会另有单独适用的相关协议、政策、指引、制度或规则等。所有服务器中已经发布或展示的或将来可能发布或展示的涉及相关业务的协议、政策、指引、制度或规则等，均构成对本协议的有效补充，并作为本协议不可分割的组成部分与本协议具有同等法律效力，对用户具有法律上的约束力。
 
@@ -75,8 +71,6 @@ footerHtml: true
 
 
 
-
-
 ## 4 其他
 
 ### 4.1 隐私政策
@@ -99,4 +93,4 @@ footerHtml: true
 
 4.4.1 速德优通过电子邮件或短信或网页公告或速德优认为适当的方式通知给用户，告知用户服务条款的修改、服务变更及其他重要事项。速德优通过以上任一方式向用户发报消息后，用户未在3日内通过书面方式提出异议，视为接受新消息的内容。
 
-4.4.2 本协议更新时间为 2024 年 1 月 23 日。
+4.4.2 本协议更新时间为 2024 年 2 月 2 日。
