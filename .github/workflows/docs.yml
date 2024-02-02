@@ -52,4 +52,4 @@ jobs:
           bucket: "fap-docs"
           endpoint: "docs.fapixel.com"
           cname: true
-          folder: "docs/.vuepress/dist"
+          folder: ".vuepress/dist"
