@@ -49,7 +49,7 @@ jobs:
         with:
           accessKeyId: ${{ secrets.ACCESS_KEY_ID }}
           accessKeySecret: ${{ secrets.ACCESS_KEY_SECRET }}
-          bucket: "your-bucket-name"
-          endpoint: "oss-cn-shanghai.aliyuncs.com"
+          bucket: "fap-docs"
+          endpoint: "docs.fapixel.com"
           cname: true
           folder: "docs/.vuepress/dist"
