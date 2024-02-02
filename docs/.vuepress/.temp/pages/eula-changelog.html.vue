@@ -1,0 +1,27 @@
+<template><div><h1 id="《funnyarenapixel-用户协议》更新日志" tabindex="-1"><a class="header-anchor" href="#《funnyarenapixel-用户协议》更新日志"><span>《FunnyArenaPixel 用户协议》更新日志</span></a></h1>
+<p>本页面仅用来记录对《<a href="/eula">FunnyArenaPixel 用户协议</a>》内容的更新情况，以便用户及时了解查阅，不能作为对协议内容的有效扩展或解读。</p>
+<h2 id="_2024-年-2-月-3-日" tabindex="-1"><a class="header-anchor" href="#_2024-年-2-月-3-日"><span>2024 年 2 月 3 日</span></a></h2>
+<ul>
+<li>修改 1.1 表述</li>
+<li>修改部分表述以应《隐私政策》生效</li>
+</ul>
+<h2 id="_2024-年-1-月-23-日" tabindex="-1"><a class="header-anchor" href="#_2024-年-1-月-23-日"><span>2024 年 1 月 23 日</span></a></h2>
+<p>备注：该次更新与 2024 年 2 月 3 日的更新一并放出。</p>
+<ul>
+<li>根据服务器名称和组织的变更修改 1.1 定义</li>
+<li>修改 2.5 的表述</li>
+</ul>
+<h2 id="_2022-年-7-月-10-日" tabindex="-1"><a class="header-anchor" href="#_2022-年-7-月-10-日"><span>2022 年 7 月 10 日</span></a></h2>
+<ul>
+<li>优化部分文字内容的排版</li>
+<li>增加对《玩家公约》页面的跳转</li>
+<li>明确导言部分对协议条款的描述</li>
+<li>对 2.2.5 的示例进行修改</li>
+</ul>
+<h2 id="_2022-年-4-月-4日" tabindex="-1"><a class="header-anchor" href="#_2022-年-4-月-4日"><span>2022 年 4 月 4日</span></a></h2>
+<ul>
+<li>第一版内容生效</li>
+</ul>
+</div></template>
+
+
