@@ -2,11 +2,13 @@
 
 依据《[团队总纲](main)》，我们的管理层由以下成员组成。
 
+<center>
 <table>
   <tr>
-    <td align="center"><a href="https://space.bilibili.com/280664902/"><img src="https://www.minebbs.com/data/avatars/h/3/3011.jpg" width="100px;" alt="从不咕咕的鸽子"/><br /><sub><b>从不咕咕的鸽纸</b></sub></a><br /><small>服主</small><br />📫<a href="mailto:pigeon@sodayo.net" title="邮箱">pigeon@sodayo.net</a></td>
+    <td align="center"><a href="https://space.bilibili.com/280664902/"><img src="https://www.minebbs.com/data/avatars/h/3/3011.jpg" width="100px;" alt="从不咕咕的鸽子"/><br /><b>从不咕咕的鸽纸</b></a><br /><small>服主</small><br /><a href="mailto:pigeon@sodayo.net" title="邮箱">pigeon@sodayo.net</a></td>
   </tr>
 </table>
+</center>
 
 <table>
   <tr>
