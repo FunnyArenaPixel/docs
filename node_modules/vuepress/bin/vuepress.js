@@ -1,3 +1,5 @@
 #!/usr/bin/env node
 
-require('vuepress-vite/bin/vuepress')
+import { cli } from '@vuepress/cli'
+
+cli()
