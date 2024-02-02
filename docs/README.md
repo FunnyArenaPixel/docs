@@ -10,7 +10,7 @@ actions:
   - text: 返回官网
     link: https://www.fapixel.com/
     type: secondary
-footer: Copyright © 2024 FunnyArenaPixel. 保留本页面的所有权利。<br /><a href="https://beian.miit.gov.cn/" target="_blank" one-link-mark="yes">京ICP备2024044839号-1</a> - <a href="/privacy.html/" one-link-mark="yes">隐私政策</a> | <a href="/eula.html/" one-link-mark="yes">用户协议</a>
+footer: Copyright © 2024 速德优（北京）网络科技有限公司. 保留本页面的所有权利。<br /><a href="https://beian.miit.gov.cn/" target="_blank" one-link-mark="yes">京ICP备2024044839号-1</a> - <a href="/privacy.html/" one-link-mark="yes">隐私政策</a> | <a href="/eula.html/" one-link-mark="yes">用户协议</a>
 footerHtml: true
 ---
 
@@ -22,4 +22,4 @@ footerHtml: true
 
 请注意，本网站只存放与 FunnyArenaPixel 服务器相关的文档，其他的服务请参见对应的网站。
 
-如果您有任何问题，欢迎与我们[取得联系](mailto:admin@fapixel.com)。
+如果您有任何问题，欢迎与我们[取得联系](mailto:concact@fapixel.com)。
