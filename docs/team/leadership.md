@@ -27,7 +27,7 @@ sidebar: false
 <table>
   <tr>
     <td align="center"><a href="#"><img src="/img/leadership/Nissining.jpg" width="100px;" alt="Nissining"/><br /><b>Nissining</b></a><br /><small>💻开发组长</small><br /><a href="mailto:nissining@sodayo.net" title="邮箱">nissining@sodayo.net</a></td>
-    <td align="center"><a href="https://space.bilibili.com/349401599/"><img src="/img/leadership/Suda.jpg" width="100px;" alt="苏打"/><br /><b>苏打</b></a><br /><small>🛠️运维组长</small><br /><a href="mailto:42402007@qq.com" title="邮箱">42402007@qq.com</a></td><br />
+    <td align="center"><a href="https://space.bilibili.com/349401599/"><img src="/img/leadership/Suda.jpg" width="100px;" alt="苏打"/><br /><b>苏打</b></a><br /><small>🛠️运维组长</small><br /><a href="mailto:42402007@qq.com" title="邮箱">42402007@qq.com</a></td>
     <td align="center"><a href="https://space.bilibili.com/447373541"><img src="/img/leadership/BeiNing.jpg" width="100px;" alt="北柠"/><br /><b>北柠</b></a><br /><small>🧑‍🤝‍🧑人力资源管理</small><br /><a href="beining@sodayo.net" title="邮箱">beining@sodayo.net</a></td>
   </tr>
 </table>
