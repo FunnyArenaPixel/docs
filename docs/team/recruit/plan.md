@@ -14,7 +14,7 @@
 
 ## 不定期招聘
 
-以下是我们长期接收的岗位，如果您有意愿，欢迎您投递简历至[hr@fapixel.com](mailto:hr@fapixel.com)。
+以下是我们长期接收的岗位，如果您有意愿，欢迎您投递简历至[hr@fapixel.com](mailto:hr@fapixel.com)或[点击这里](https://fap-studio.feishu.cn/share/base/form/shrcnkUaYuPbNv5QeKSm0hO85Qc)进行申请
 
 - 开发：
   - Java、Python等服务端开发（不限JE、BE）
