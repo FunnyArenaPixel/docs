@@ -1,24 +1,46 @@
+---
+description: 联系我们
+sidebar: false
+---
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 # 管理层
+
 
 依据《[团队总纲](main)》，我们的管理层由以下成员组成。
 
-<center>
+<div class="center">
 <table>
   <tr>
-    <td align="center"><a href="https://space.bilibili.com/280664902/"><img src="https://www.minebbs.com/data/avatars/h/3/3011.jpg" width="100px;" alt="从不咕咕的鸽子"/><br /><b>从不咕咕的鸽纸</b></a><br /><small>服主</small><br /><a href="mailto:pigeon@sodayo.net" title="邮箱">pigeon@sodayo.net</a></td>
+    <td align="center"><a href="https://space.bilibili.com/280664902/"><img src="/img/leadership/Pigeon.jpg" width="100px;" alt="从不咕咕的鸽子"/><br /><b>从不咕咕的鸽纸</b></a><br /><small>服主</small><br /><a href="mailto:pigeon@sodayo.net" title="邮箱">pigeon@sodayo.net</a></td>
   </tr>
 </table>
-</center>
-
+</div>
+<div class="center">
 <table>
   <tr>
-    <td align="center"><a href="https://space.bilibili.com/280664902/"><img src="https://www.minebbs.com/data/avatars/h/3/3011.jpg?1588671586" width="100px;" alt="PexEric"/><br /><sub><b>从不咕咕的鸽纸</b></sub></a><br /><small>服主</small><br /><a href="/" title="运维">🛠️</a><a href="mailto:3349525227@qq.com" title="邮箱">📫</a></td>
-    <td align="center"><a href="#"><img src="https://www.minebbs.com/data/avatars/h/1/1726.jpg?1644213938" width="100px;" alt="Catrainbow"/><br /><sub><b>Nissining</b></sub></a><br /><small>开发组长</small><br /><a href="#" title="开发">💻</a><a href="mailto:nissining@sodayo.net" title="邮箱">📫</a></td>
-    <td align="center"><a href="https://space.bilibili.com/349401599/"><img src="https://s1.ax1x.com/2022/07/10/jy3NR0.jpg" width="100px;" alt="苏打"/><br /><sub><b>苏打</b></sub></a><br /><small>运维组长</small><br /><a href="/" title="运维">🛠️</a><a href="/" title="人事管理">🧑‍🤝‍🧑</a><a href="mailto:42402007@qq.com" title="邮箱">📫</a></td>
-    <td align="center"><a href="https://space.bilibili.com/447373541"><img src="https://i2.hdslb.com/bfs/face/66f0c80b817f16930c2b19b7c72ea35ed34bb2a3.jpg" width="100px;" alt="北柠"/><br /><sub><b>北柠</b></sub></a><br /><small>人力资源管理</small><br /><a href="/" title="人事管理">🧑‍🤝‍🧑</a><a href="beining@sodayo.net" title="邮箱">📫</a></td>
-    <td align="center"><a href="https://pexeric.gitee.io/"><img src="/img/leadership/PexEric.jpg" width="100px;" alt="PexEric"/><br /><sub><b>PexEric</b></sub></a><br /><small>策划组长</small><br /><a href="/" title="策划">📖</a><a href="/" title="服务器资源包、宣传图制作">🎨</a><a href="mailto:suoerix@gmail.com" title="邮箱">📫</a></td>
+    <td align="center"><a href="#"><img src="/img/leadership/Nissining.jpg" width="100px;" alt="Nissining"/><br /><b>Nissining</b></a><br /><small>💻开发组长</small><br /><a href="mailto:nissining@sodayo.net" title="邮箱">nissining@sodayo.net</a></td>
+    <td align="center"><a href="https://space.bilibili.com/349401599/"><img src="/img/leadership/Suda.jpg" width="100px;" alt="苏打"/><br /><b>苏打</b></a><br /><small>🛠️运维组长</small><br /><a href="mailto:42402007@qq.com" title="邮箱">42402007@qq.com</a></td>
+    <td align="center"><a href="https://space.bilibili.com/447373541"><img src="/img/leadership/BeiNing.jpg" width="100px;" alt="北柠"/><br /><b>北柠</b></a><br /><small>🧑‍🤝‍🧑人力资源管理</small><br /><a href="beining@sodayo.net" title="邮箱">beining@sodayo.net</a></td>
+    <td align="center"><a href="https://space.bilibili.com/40170123"><img src="/img/leadership/PexEric.jpg" width="100px;" alt="PexEric"/><br /><b>PexEric</b></a><br /><small>📖策划组长</small><br /><a href="mailto:eric@fapixel.com" title="邮箱">eric@fapixel.com</a></td>
   </tr>
 </table>
+</div>
+<div class="center">
+<table>
+  <tr>
+    <td align="center"><a href="https://space.bilibili.com/358311473"><img src="/img/leadership/XiaoSa.jpg" width="100px;" alt="小撒"/><br /><b>小撒</b></a><br /><small>📢新媒体运营组长</small><br /><a href="mailto:xiaosa@sodayo.net" title="邮箱">xiaosa@sodayo.net</a></td>
+    <td align="center"><a href="#"><img src="/img/leadership/lemon.jpg" width="100px;" alt="柠檬"/><br /><b>柠檬</b></a><br /><small>👮玩家管理组长</small><br /><a href="lemon@sodayo.net" title="邮箱">lemon@sodayo.net</a></td>
+  </tr>
+</table>
+</div>
 
-如果您有任何疑问，欢迎与我们[取得联系](/contact)。
+如果您有任何疑问，欢迎与我们[取得联系](/contact.html)。
 

@@ -77,8 +77,8 @@
 
 您的个人信息和游戏数据主要被保存在速德优（北京）网络科技有限公司的存储服务器中，其他数据也可能会被存储在以下容器内：
 
-- 您的**部分游戏数据**（包括Rank、像素币、处罚记录等）可能会被储存于上海易什网络科技有限公司;速德优(北京)网络科技有限公司或其服务商的服务器内。
-- 您的**操作封禁记录**可能会被储存在北京飞书科技有限公司（[飞书隐私政策](https://www.feishu.cn/feishu-lite-privacy)）;上海易什网络科技有限公司([EaseCation 总则-信息安全](http://wiki.easecation.net/EaseCation_Wiki:%E6%80%BB%E5%88%99#%E7%AC%AC%E5%85%AB%E7%AB%A0_%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8))或其服务商的服务器内。
+- 您的**部分游戏数据**（包括Rank、像素币、处罚记录等）可能会被储存于上海易什网络科技有限公司或其服务商的服务器内。
+- 您的**操作封禁记录**可能会被储存在北京飞书科技有限公司（[飞书隐私政策](https://www.feishu.cn/feishu-lite-privacy)）、上海易什网络科技有限公司（[EaseCation 总则-信息安全](http://wiki.easecation.net/EaseCation_Wiki:%E6%80%BB%E5%88%99#%E7%AC%AC%E5%85%AB%E7%AB%A0_%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8)）或其服务商的服务器内。
 - 您的**实名信息**可能会被储存在北京飞书科技有限公司、上海易什网络科技有限公司或其关联组织的服务器内。
 - 您向我们**发送的邮件数据**存储于北京飞书科技有限公司的“简单邮件传输协议”（Simple Mail Transfer Protocol，SMTP）服务器中。
 
@@ -125,8 +125,8 @@
 
 ## 八、如何联系我们
 
-- 速德优（北京）网络科技有限公司 法定代表人，FunnyArenaPixel 服主 从不咕咕的鸽纸：pigeon@sodayo.net
-- FunnyArenaPixel 玩家支持中心：support@fapixel.com
-- FunnyArenaPixel HR人力资源部：hr@fapixel.com
-- 速德优（北京）网络科技有限公司 商务合作：business@sodayo.net
-- 速德优（北京）网络科技有限公司 HR人力资源部：hr@sodayo.net
+- 速德优（北京）网络科技有限公司 法定代表人，FunnyArenaPixel 服主 从不咕咕的鸽纸：[pigeon@sodayo.net](mailto:pigeon@sodayo.net)
+- FunnyArenaPixel 玩家支持中心：[support@fapixel.com](mailto:)
+- FunnyArenaPixel HR人力资源部：[hr@fapixel.com](mailto:hr@fapixel.com)
+- 速德优（北京）网络科技有限公司 商务合作：[business@sodayo.net](mailto:business@sodayo.net)
+- 速德优（北京）网络科技有限公司 HR人力资源部：[hr@sodayo.net](mailto:hr@sodayo.net)

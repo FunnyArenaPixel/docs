@@ -10,7 +10,7 @@ actions:
   - text: Offical Website
     link: https://www.fapixel.com/
     type: secondary
-footer: Copyright © 2024 FunnyArenaPixel. <a href="/en/privacy.html/" one-link-mark="yes">Privacy Policy</a> | <a href="en/eula.html/" one-link-mark="yes">Terms of Use</a>
+footer: Copyright © 2024 FunnyArenaPixel. <a href="/en/privacy.html/" one-link-mark="yes">Privacy Policy</a> | <a href="/en/eula.html/" one-link-mark="yes">Terms of Use</a>
 footerHtml: true
 ---
 

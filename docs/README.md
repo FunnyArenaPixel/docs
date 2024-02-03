@@ -22,7 +22,7 @@ footerHtml: true
 
 请注意，本网站只存放与 FunnyArenaPixel 服务器相关的文档，其他的服务请参见对应的网站。
 
-如果您有任何问题，欢迎[发送邮件](mailto:support@fapixel.com)或通过[其他方式](/contact)与我们取得联系。
+如果您有任何问题，欢迎[发送邮件](mailto:support@fapixel.com)或通过[其他方式](/contact.html)与我们取得联系。
 
 
 
