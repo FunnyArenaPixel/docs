@@ -54,11 +54,11 @@ export default defineUserConfig({
                         children: [
                             {
                                 text: '游玩规范',
-                                children: [{ text: '玩家公约', link: '/players_covenant/' }, { text: '用户协议', link: '/eula/' }, { text: '隐私政策', link: '/privacy/' }],
+                                children: [{ text: '玩家公约', link: '/players_covenant.html' }, { text: '用户协议', link: '/eula.html' }, { text: '隐私政策', link: '/privacy.html' }],
                             },
                             {
                                 text: '玩法介绍',
-                                children: [{ text: 'PVP游戏', link: '/games/PVP/' }, { text: 'PVE游戏', link: '/games/PVE/' }, { text: '小游戏', link: '/games/mini/' }],
+                                children: [{ text: 'PVP游戏', link: '/games/PVP.html' }, { text: 'PVE游戏', link: '/games/PVE.html' }, { text: '小游戏', link: '/games/mini.html' }],
                             },
                             {
                                 text: '动态',
@@ -68,18 +68,22 @@ export default defineUserConfig({
                     },
                     {
                         text: '价值观',
-                        children: [{ text: '环境责任', link: '/environment/' }, { text: '著作权', link: '/copyright/' }, { text: '隐私权', link: '/privacy/' }],
+                        children: [{ text: '环境责任', link: '/environment/' }, { text: '著作权', link: '/copyright/' }, { text: '隐私权', link: '/privacy.html' }],
                     },
                     {
                         text: '关于',
                         children: [
                             {
-                                text: '团队规范',
-                                children: [{ text: '总纲', link: '/team/main/' }, { text: '版权条例', link: '/copyright/' }, { text: '运营规范', link: '/team/operation' }],
+                                text: '团队',
+                                children: [{ text: '团队简介', link: '/team/' }, { text: '管理层', link: '/team/leadership.html' }],
+                            },
+                            {
+                                text: '管理规范',
+                                children: [{ text: '总纲', link: '/team/main.html' }, { text: '版权条例', link: '/copyright/' }, { text: '运营规范', link: '/team/operation.html' }],
                             },
                             {
                                 text: '招贤纳士',
-                                children: [{ text: '招新计划', link: '/team/recruit/plan/' }, { text: '招新资料', link: '/team/recruit/info/' }, { text: '管理层', link: '/team/leadership/' }],
+                                children: [{ text: '招新计划', link: '/team/recruit/plan.html' }, { text: '招新资料', link: '/team/recruit/info.html' }],
                             }
                         ],
                     },
@@ -87,7 +91,16 @@ export default defineUserConfig({
                         text: '返回主站',
                         link: 'https://www.fapixel.com/',
                     },
-                ]
+                ],
+                sidebar: {
+                    '/': 'heading',
+                    '/copyright/': [
+                        {
+                            text: '著作权',
+                            children: ['/copyright/README.md', '/copyright/rule.md', '/copyright/assets/'],
+                        },
+                    ],
+                }
             },
             '/en/': {
                 selectLanguageName: 'English',
