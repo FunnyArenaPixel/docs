@@ -12,6 +12,7 @@
 我们管理层的相关同事的联系邮箱如下，它们也已在[管理层](/team/leadership)的专门页面列出。
 
 - 服主 从不咕咕的鸽纸：[pigeon@sodayo.net](mailto:pigeon@sodayo.net)
+- HR人力资源管理 北柠: [beining@sodayo.net](mailto:beining@sodayo.net)
 - 
 
 

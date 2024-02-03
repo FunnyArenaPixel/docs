@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: FunnyArenaPixel 文档中心
-heroImage: img/logo.png
+heroImage: /img/logo.png
 tagline: 
 actions:
   - text: 开源仓库
@@ -25,4 +25,4 @@ footerHtml: true
 如果您有任何问题，欢迎[发送邮件](mailto:support@fapixel.com)或通过[其他方式](/contact)与我们取得联系。
 
 
-![](./img/banner.png)
+
