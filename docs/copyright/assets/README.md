@@ -24,3 +24,6 @@
 ![](https://attachment.mcbbs.net/data/myattachment/forum/202010/06/124223hxtr8p6wfrx9ue7x.jpg)
 
 [**查看mcbbs.net提供的短消息记录**](沉默井上明.html)丨[下载由“一只鸽纸”提供的聊天页面截图](QQ图片20220710214321.png)
+
+## 大厅音乐盒
+大厅音乐盒中的《spasmodic》已经过其创作者姜米條授权使用[**查看QQ短消息记录**](spasmodic.png)
