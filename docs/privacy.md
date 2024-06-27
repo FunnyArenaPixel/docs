@@ -1,6 +1,6 @@
 # FunnyArenaPixel 隐私政策
 
-**更新日期：2024 年 2 月 3 日**（[更新日志](/privacy-changelog.html)）
+**更新日期：2024 年 6 月 27 日**（[更新日志](/privacy-changelog.html)）
 
 **生效日期：2024 年 2 月 3 日**
 
