@@ -7,7 +7,7 @@
 我们的主大厅源自 EaseCation 建筑团队，由鲍俊轩（网名星际）代表上海易什网络技术有限公司许可我们使用。
 
 
-[**下载《授权许可证书》的公示本**](授权证明.pdf)
+[**下载《授权许可证书》的公示本**](https://fap-studio.feishu.cn/file/UiDQbHffOoNxlyxpUTGcf3Uanlg)
 
 
 ## 游戏NPC皮肤贴图
